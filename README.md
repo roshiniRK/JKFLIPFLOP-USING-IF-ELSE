@@ -101,7 +101,6 @@ endmodule
 ![image](https://github.com/roshiniRK/JKFLIPFLOP-USING-IF-ELSE/assets/118956165/dbe78339-d46d-4b60-88ab-8de2d4784a70)
 
 
-
 **RESULTS**
 
 Thus,the code executed successfully.
