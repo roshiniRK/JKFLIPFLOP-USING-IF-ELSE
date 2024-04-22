@@ -50,8 +50,8 @@ step-6 Run the program.
 **PROGRAM**
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
-Developed by:N.Navya Sree
-RegisterNumber:212223040138
+Developed by:ROSHINI R K
+RegisterNumber:212222230123
 */
 ```
 ```
